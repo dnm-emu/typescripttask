@@ -1,0 +1,1 @@
+{"version":3,"file":"ITransaction.d.ts","sourceRoot":"","sources":["../../src/interfaces/ITransaction.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,sBAAsB,CAAC;AAEvD,MAAM,WAAW,YAAY;IAC3B,EAAE,EAAE,MAAM,CAAC;IACX,MAAM,EAAE,MAAM,CAAC;IACf,IAAI,EAAE,eAAe,CAAC;IACtB,IAAI,EAAE,IAAI,CAAC;IACX,WAAW,EAAE,MAAM,CAAC;CACrB"}

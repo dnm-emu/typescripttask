@@ -1,0 +1,1 @@
+//# sourceMappingURL=LogClass.d.ts.map
